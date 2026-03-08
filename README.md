@@ -2,8 +2,9 @@
 
 A full-stack restaurant ordering platform built on QR code technology, real-time order management, and AI-powered food recommendations.
 
-
 ## Overview
+
+<img  src="/client/public/video.gif"/>
 
 FOOD DASH enables customers to scan table QR codes, browse menus, place orders, and receive personalized recommendations. Restaurant staff manage operations through a real-time admin dashboard covering orders, tables, menus, and payments.
 
