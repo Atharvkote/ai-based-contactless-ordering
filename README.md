@@ -1,4 +1,5 @@
-# FOOD DASH — AI-Based Contactless Ordering & Menu Recommendation System
+# FOOD DASH 
+## Contactless Ordering System(TOTP) with AI-Based Menu Recommendations
 
 A full-stack restaurant ordering platform built on QR code technology, real-time order management, and AI-powered food recommendations.
 
